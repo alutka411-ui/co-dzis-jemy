@@ -1,0 +1,26 @@
+{
+  "name": "Co dziś jemy?",
+  "short_name": "Co dziś jemy?",
+  "id": "/co-dzis-jemy/",
+  "start_url": "/co-dzis/",
+  "scope": "/co-dzis/",
+  "display": "standalone",
+  "background_color": "#f7fbfa",
+  "theme_color": "#f7fbfa",
+  "lang": "pl",
+  "description": "Osobisty planer posiłków, historia, zakupy i pomysły na jedzenie.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
